@@ -210,3 +210,7 @@ cython_debug/
 #.idea/
 
 .gitattribute
+.idea
+.build
+.target
+.pytest_cache
